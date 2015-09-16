@@ -1,3 +1,4 @@
+#usr/bin/python3.4
 # Digital Logic Simulator
 wire_num=0
 gate_num=0
